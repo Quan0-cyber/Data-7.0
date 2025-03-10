@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67c3c5fcd95005141f86932f"
+  },
+  "order_id": "67c3be3dd95005141f869320",
+  "payment_method": "COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2025-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "100.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c6bf734469254badc2a87d"
+  },
+  "order_id": "67c6bf834469254badc2a87f",
+  "payment_method": " COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2025-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "850.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cbc37698b278f3cdd27abd"
+  },
+  "order_id": "67cbbde598b278f3cdd27a54",
+  "payment_method": " COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2025-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "750.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cbc3f598b278f3cdd27acc"
+  },
+  "order_id": "67cae75e98b278f3cdd279ed",
+  "payment_method": " COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2025-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "650.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ce8db82df61967073c8f1c"
+  },
+  "order_id": "67ce82472df61967073c8eeb",
+  "payment_method": " COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2023-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "1500.000"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ce8dff2df61967073c8f21"
+  },
+  "order_id": "67ce8c842df61967073c8f03",
+  "payment_method": " COD",
+  "payment_status": " Thanh toán thành công",
+  "payment_date": {
+    "$date": "2023-05-05T17:00:00.000Z"
+  },
+  "total_payment": {
+    "$numberDecimal": "3800.000"
+  }
+}]

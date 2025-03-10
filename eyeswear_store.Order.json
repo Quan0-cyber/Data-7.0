@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67c3be3dd95005141f869320"
+  },
+  "order_date": {
+    "$date": "2025-04-04T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "100.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "0"
+  },
+  "total_amount": {
+    "$numberDecimal": "100.000"
+  },
+  "order_status": " Đã giao",
+  "delivery_address": " Quận Tân Phú , Lê Trọng Tấn 124",
+  "customer_id ": "67c3baedd95005141f869311"
+},
+{
+  "_id": {
+    "$oid": "67c6bf834469254badc2a87f"
+  },
+  "order_date": {
+    "$date": "2024-02-04T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "900.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "50.000"
+  },
+  "total_amount": {
+    "$numberDecimal": "850.000"
+  },
+  "order_status": " Đã giao",
+  "delivery_address": "123 Hai Ba Trung Q1",
+  "customer_id ": "67c6bf524469254badc2a878"
+},
+{
+  "_id": {
+    "$oid": "67cae75e98b278f3cdd279ed"
+  },
+  "order_date": {
+    "$date": "2024-04-09T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "700.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "50.000"
+  },
+  "total_amount": {
+    "$numberDecimal": "650.000"
+  },
+  "order_status": " Đã giao",
+  "delivery_address": "Thảo Điền Q2",
+  "customer_id ": "67c6bf524469254badc2a878"
+},
+{
+  "_id": {
+    "$oid": "67cbbde598b278f3cdd27a54"
+  },
+  "order_date": {
+    "$date": "2024-04-09T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "800.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "50.000"
+  },
+  "total_amount": {
+    "$numberDecimal": "750.000"
+  },
+  "order_status": " Đã giao",
+  "delivery_address": " 123 lê trọng Tấn , Tân Phú",
+  "customer_id ": "67c5e27dfc3a04ed294342e1"
+},
+{
+  "_id": {
+    "$oid": "67ce82472df61967073c8eeb"
+  },
+  "order_date": {
+    "$date": "2024-04-09T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "1600.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "100.000"
+  },
+  "total_amount": {
+    "$numberDecimal": "1500.000"
+  },
+  "order_status": " Đã giao",
+  "delivery_address": " 456 lê trọng Tấn , Tân Phú",
+  "customer_id ": "67ce84822df61967073c8ef3"
+},
+{
+  "_id": {
+    "$oid": "67ce8c842df61967073c8f03"
+  },
+  "order_date": {
+    "$date": "2024-04-09T17:00:00.000Z"
+  },
+  "total_price": {
+    "$numberDecimal": "4000.000"
+  },
+  "total_discount": {
+    "$numberDecimal": "200.000"
+  },
+  "total_amount": {
+    "$numberDecimal": "3800.000"
+  },
+  "order_status": " Đã giao",
+  "delivery_address": " 678 lê trọng Tấn , Tân Phú",
+  "customer_id ": "67ce8d532df61967073c8f12"
+}]
